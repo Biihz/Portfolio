@@ -1,2 +1,2 @@
-# Portfolio
-Divulgação de alguns trabalhos meus
+# Portfólio
+Diversas Linguagens
